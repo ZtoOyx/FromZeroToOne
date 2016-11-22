@@ -14,6 +14,7 @@ import com.example.pc.fromzerotoone.login.iview.ILoginView;
 public class LoginPresenter {
     private ILoginBiz iLoginBiz;
     private ILoginView iLoginView;
+    //test
 
     public LoginPresenter(ILoginView iLoginView) {
         this.iLoginView = iLoginView;
